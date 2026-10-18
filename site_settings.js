@@ -1,5 +1,5 @@
 window.siteSettings = {
-  "title": "Tu's Portfolio",
+  "title": "Tu's Portfolio -Publish Tests",
   "subtitle": "Public portfolio update",
   "journalTitle": "Stock Journal",
   "journalDescription": "A dated history of my investment observations.",
