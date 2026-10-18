@@ -22,8 +22,8 @@ window.portfolioData = {
   "holdings": [
     {
       "symbol": "ALAB",
-      "weight": 1,
-      "return": 1
+      "weight": 10,
+      "return": 10
     },
     {
       "symbol": "NBIS",
