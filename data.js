@@ -4,6 +4,10 @@ window.portfolioData = {
   "latestMonth": 2,
   "annual": [
     {
+      "year": "2024",
+      "return": 1
+    },
+    {
       "year": "2025",
       "return": null
     },
@@ -16,6 +20,11 @@ window.portfolioData = {
     {
       "month": "Jan 2026",
       "return": null,
+      "ytd": null
+    },
+    {
+      "month": "Oct 2026",
+      "return": -1,
       "ytd": null
     }
   ],
