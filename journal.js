@@ -42,5 +42,14 @@ window.stockJournal = [
     "body": "<p>Revenue has grown substantially, increasing from $119 million in FY2018 to $4.81 billion in FY2026. However, annual revenue growth has consistently decelerated, falling from 110.37% in FY2019 to 21.71% in FY2026, reflecting a maturing business.</p><p>More recently, quarterly revenue growth shows signs of reacceleration. Year-over-year growth improved from a low of 19.80% in Q1 FY2026 to 25.83% in the latest reported quarter (July 2026). Sequential quarterly growth also strengthened, reaching 6.15% in each of the last two quarters.</p><p>Overall assessment: The company has transitioned from hypergrowth to a more sustainable growth phase, with encouraging evidence of renewed revenue acceleration. The key question is whether the recent improvement can be sustained over subsequent quarters.</p>",
     "format": "html",
     "revisedAt": null
+  },
+  {
+    "id": "0be9adad-2072-43a6-8682-a119ccaffe40",
+    "symbol": "RBLX",
+    "date": "2026-10-20",
+    "title": "Revenue Growth Assessment",
+    "body": "<p><p><p>Revenue has grown significantly, increasing from $508 million in FY2019 to $4.89 billion in FY2025. After slowing sharply to 15.94% growth in FY2022, annual revenue growth steadily reaccelerated, reaching 35.77% in FY2025.</p><p>However, recent quarterly results suggest growth is beginning to decelerate. Year-over-year revenue growth peaked at 47.96% in Q3 2025 before declining for three consecutive quarters to 35.89% in Q2 2026. Sequential quarterly growth also slowed to just 1.87%, compared with 25.78% in Q3 2025.</p><p>Overall assessment: The company has demonstrated strong long-term growth and a successful multiyear reacceleration. However, recent quarterly trends indicate weakening growth momentum. Although revenue continues to increase, the key question is whether this slowdown is temporary or signals a more sustained deceleration.</p></p><p><p></p></p></p><p><p></p></p>",
+    "format": "html",
+    "revisedAt": null
   }
 ];
