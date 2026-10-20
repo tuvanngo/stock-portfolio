@@ -31,109 +31,129 @@ window.portfolioData = {
   "holdings": [
     {
       "symbol": "ALAB",
-      "weight": 10,
-      "return": 10,
-      "previousMonthWeight": 5
+      "weight": 0.16,
+      "return": null,
+      "previousMonthWeight": 0.16
     },
     {
       "symbol": "NBIS",
-      "weight": 1,
-      "return": 1
+      "weight": 0.13,
+      "return": null,
+      "previousMonthWeight": 0.13
     },
     {
       "symbol": "NVDA",
-      "weight": null,
-      "return": null
+      "weight": 3.96,
+      "return": null,
+      "previousMonthWeight": null
     },
     {
       "symbol": "SE",
-      "weight": null,
-      "return": null
+      "weight": 0.14,
+      "return": null,
+      "previousMonthWeight": 0.14
     },
     {
       "symbol": "DDOG",
-      "weight": null,
-      "return": null
+      "weight": 0.41,
+      "return": null,
+      "previousMonthWeight": 0.41
     },
     {
       "symbol": "VTI",
-      "weight": null,
-      "return": null
+      "weight": 0.29,
+      "return": null,
+      "previousMonthWeight": 0.29
     },
     {
       "symbol": "SPG",
-      "weight": null,
-      "return": null
+      "weight": 0.24,
+      "return": null,
+      "previousMonthWeight": 0.24
     },
     {
       "symbol": "CRWD",
-      "weight": null,
-      "return": null
+      "weight": 0.71,
+      "return": null,
+      "previousMonthWeight": 0.71
     },
     {
       "symbol": "TFC",
-      "weight": null,
-      "return": null
+      "weight": 0.54,
+      "return": null,
+      "previousMonthWeight": 0.54
     },
     {
       "symbol": "MELI",
-      "weight": null,
-      "return": null
+      "weight": 0.14,
+      "return": null,
+      "previousMonthWeight": 0.14
     },
     {
       "symbol": "SHOP",
-      "weight": null,
-      "return": null
+      "weight": 0.68,
+      "return": null,
+      "previousMonthWeight": 0.68
     },
     {
       "symbol": "UNH",
-      "weight": null,
-      "return": null
+      "weight": 0.32,
+      "return": null,
+      "previousMonthWeight": 0.32
     },
     {
       "symbol": "PFE",
-      "weight": null,
-      "return": null
+      "weight": 0.11,
+      "return": null,
+      "previousMonthWeight": 0.11
     },
     {
       "symbol": "ENPH",
-      "weight": null,
-      "return": null
+      "weight": 0.09,
+      "return": null,
+      "previousMonthWeight": 0.09
     },
     {
       "symbol": "ELF",
-      "weight": null,
-      "return": null
+      "weight": 0.22,
+      "return": null,
+      "previousMonthWeight": 0.22
     },
     {
       "symbol": "APP",
-      "weight": null,
-      "return": null
+      "weight": 0.25,
+      "return": null,
+      "previousMonthWeight": 0.25
     },
     {
       "symbol": "MU",
-      "weight": null,
-      "return": null
+      "weight": 0.14,
+      "return": null,
+      "previousMonthWeight": 0.14
     },
     {
       "symbol": "TTD",
-      "weight": null,
-      "return": null
+      "weight": 1.82,
+      "return": null,
+      "previousMonthWeight": 1.82
     },
     {
       "symbol": "ZS",
-      "weight": null,
-      "return": null
+      "weight": 0.83,
+      "return": null,
+      "previousMonthWeight": 0.83
     },
     {
       "symbol": "BRK.B",
-      "weight": null,
-      "return": null
+      "weight": 0.41,
+      "return": null,
+      "previousMonthWeight": 0.41
     },
     {
       "symbol": "PYPL",
-      "weight": null,
-      "return": null
+      "weight": 0.29,
+      "return": null,
+      "previousMonthWeight": 0.29
     },
     {
       "symbol": "T",
@@ -142,33 +162,39 @@ window.portfolioData = {
     },
     {
       "symbol": "AEHR",
-      "weight": null,
-      "return": null
+      "weight": 0.84,
+      "return": null,
+      "previousMonthWeight": 0.84
     },
     {
       "symbol": "IOT",
-      "weight": null,
-      "return": null
+      "weight": 0.43,
+      "return": null,
+      "previousMonthWeight": 0.43
     },
     {
       "symbol": "GOOG",
-      "weight": null,
-      "return": null
+      "weight": 5.04,
+      "return": null,
+      "previousMonthWeight": 5.04
     },
     {
       "symbol": "RBLX",
-      "weight": null,
-      "return": null
+      "weight": 2.37,
+      "return": null,
+      "previousMonthWeight": 2.37
     },
     {
       "symbol": "GBTC",
-      "weight": null,
-      "return": null
+      "weight": 0.15,
+      "return": null,
+      "previousMonthWeight": 0.15
     },
     {
       "symbol": "CASH",
-      "weight": null,
-      "return": null
+      "weight": 12.09,
+      "return": null,
+      "previousMonthWeight": 12.09
     }
   ]
 };
