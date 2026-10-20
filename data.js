@@ -23,7 +23,8 @@ window.portfolioData = {
     {
       "symbol": "ALAB",
       "weight": 10,
-      "return": 10
+      "return": 10,
+      "previousMonthWeight": 5
     },
     {
       "symbol": "NBIS",
